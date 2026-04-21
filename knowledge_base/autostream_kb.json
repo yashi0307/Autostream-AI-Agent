@@ -1,0 +1,67 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "tagline": "Automated Video Editing Tools for Content Creators",
+    "description": "AutoStream is a SaaS platform that empowers content creators with AI-powered automated video editing tools. Whether you're a YouTuber, Instagram creator, or TikTok influencer, AutoStream helps you edit faster, smarter, and at scale."
+  },
+  "pricing": {
+    "plans": [
+      {
+        "name": "Basic Plan",
+        "price_monthly": 29,
+        "currency": "USD",
+        "features": [
+          "10 videos per month",
+          "720p resolution output",
+          "Basic auto-cut and trim",
+          "Standard templates",
+          "Email support"
+        ],
+        "best_for": "Hobbyists and beginner creators"
+      },
+      {
+        "name": "Pro Plan",
+        "price_monthly": 79,
+        "currency": "USD",
+        "features": [
+          "Unlimited videos per month",
+          "4K resolution output",
+          "AI-generated captions",
+          "Advanced auto-edit with AI scene detection",
+          "Priority rendering",
+          "24/7 dedicated support",
+          "Custom branding & watermarks",
+          "Access to all premium templates"
+        ],
+        "best_for": "Professional creators, agencies, and businesses"
+      }
+    ]
+  },
+  "policies": {
+    "refund_policy": "No refunds are provided after 7 days from the date of purchase. Within 7 days, refund requests are evaluated on a case-by-case basis.",
+    "support": {
+      "basic_plan": "Email support only, response within 24-48 hours.",
+      "pro_plan": "24/7 live support via chat and email."
+    },
+    "cancellation": "You can cancel your subscription at any time. Access continues until the end of the billing period.",
+    "free_trial": "AutoStream does not currently offer a free trial, but we do offer a 7-day money-back guarantee on the Basic Plan."
+  },
+  "faqs": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports export for YouTube, Instagram Reels, TikTok, Facebook, and Twitter/X. The Pro plan also supports custom resolutions."
+    },
+    {
+      "question": "Can I upgrade from Basic to Pro?",
+      "answer": "Yes, you can upgrade anytime from your dashboard. You'll be charged the prorated difference for the remaining billing cycle."
+    },
+    {
+      "question": "Does AutoStream support team accounts?",
+      "answer": "Team accounts are available on the Pro plan. Contact our sales team for enterprise pricing."
+    },
+    {
+      "question": "Is there an annual discount?",
+      "answer": "Yes! Paying annually saves you 20% — Basic at $23/month and Pro at $63/month when billed yearly."
+    }
+  ]
+}
