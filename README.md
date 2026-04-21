@@ -57,6 +57,15 @@ autostream-agent/
 ```
 
 ---
+## Demo Video
+
+Add your demo video link here:
+
+```
+https://drive.google.com/file/d/16sdvVSMwmUQfJBLSdy-CPVrMTiC3XHAv/view?usp=sharing
+```
+
+---
 
 ## How to Run
 
@@ -163,15 +172,6 @@ User state can be stored using Redis or a database, keyed by phone number, so co
 
 ---
 
-## Demo Video
-
-Add your demo video link here:
-
-```
-<your-demo-video-link>
-```
-
----
 
 ## What This Project Demonstrates
 
