@@ -1,6 +1,6 @@
 # AutoStream AI Agent — Social-to-Lead Workflow
 
-Machine Learning Intern Assignment — ServiceHive × Inflx
+
 
 ---
 
